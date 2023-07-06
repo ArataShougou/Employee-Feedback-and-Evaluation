@@ -1,0 +1,7 @@
+body {
+    background: url(../asset/bg2.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.main{
+    margin-top: 100px;
+}
